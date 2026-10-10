@@ -159,7 +159,7 @@ export function Footer() {
             Meridian<span className="text-accent">Build</span>
           </p>
           <p className="text-sm text-text-muted">
-            © 2026 Meridian Build. All rights reserved.
+            © 2026 Meridian Build. All rights reserved. · Built by <a href="https://amreltanany.com" target="_blank" rel="noopener noreferrer" className="underline transition-colors hover:text-accent">Amr ElTanany</a>
           </p>
           <div className="flex gap-6 text-sm">
             <a
